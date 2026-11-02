@@ -28,8 +28,8 @@ The dashboard provides interactive visualizations and key performance indicators
 - Beauty, Books, Electronics, Fashion, and Home & Kitchen are among the displayed product categories.
 - The dashboard enables comparison of sales trends across months, quarters, and years.
 
-  ## Dashboard Preview
-  - <a href="https://github.com/Arizdli/Sales-Data-Analysis-Dashboard-Power-BI/blob/main/Sales%20Data%20Dashboard.pdf">View Dashboard</a>
+## Dashboard Preview
+- <a href="https://github.com/Arizdli/Sales-Data-Analysis-Dashboard-Power-BI/blob/main/Sales%20Data%20Dashboard.pdf">View Dashboard</a>
  
 ##  Conclusion
 - This Power BI project demonstrates practical skills in data cleaning, data modeling, DAX calculations, KPI development, and interactive dashboard creation.
