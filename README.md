@@ -34,6 +34,8 @@ The dashboard provides interactive visualizations and key performance indicators
 ##  Conclusion
 - This Power BI project demonstrates practical skills in data cleaning, data modeling, DAX calculations, KPI development, and interactive dashboard creation.
 - It helps transform raw sales data into meaningful business insights that support better decision-making.
+## Dashboard
+<img width="3075" height="1763" alt="Screenshot" src="https://github.com/user-attachments/assets/8a8f7ac3-5a5b-4cd5-8687-bb47cf28d85a" />
 
 ## Author
 Ariz Ahmad
