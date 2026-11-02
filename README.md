@@ -14,4 +14,26 @@ The dashboard provides interactive visualizations and key performance indicators
 - Monitor monthly product category trends.
 - Provide interactive filtering for better analysis.
 
+## Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Visualization
+- Data Cleaning and Transformation
+
+## Key Insights
+- Delivered orders account for approximately 83.48% of total orders.
+- UPI is the leading payment method, contributing 37.4%.
+- Beauty, Books, Electronics, Fashion, and Home & Kitchen are among the displayed product categories.
+- The dashboard enables comparison of sales trends across months, quarters, and years.
+
+  ## Dashboard Preview
+  - <a href="https://github.com/Arizdli/Sales-Data-Analysis-Dashboard-Power-BI/blob/main/Sales%20Data%20Dashboard.pdf">View Dashboard</a>
  
+##  Conclusion
+- This Power BI project demonstrates practical skills in data cleaning, data modeling, DAX calculations, KPI development, and interactive dashboard creation.
+- It helps transform raw sales data into meaningful business insights that support better decision-making.
+
+## Author
+Ariz Ahmad
